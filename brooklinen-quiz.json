@@ -1,0 +1,158 @@
+{ "name" : "brooklinen",
+"children": [
+        {
+            "name" : "sheets",
+            "children" : [
+                {
+                    "name": "ClassicPercale",
+                    "children": [
+                        {"name": "DuvetCover"},
+                        {"name": "Pillowcases"},
+                        {"name": "Fitted Sheets"},
+                        {"name": "Started Set"},
+                        {"name": "Core Set"},
+                        {"name": "Hardcorde Bundle"},
+                        {"name": "Move in Bundle"}
+                    ]
+                },
+                {
+                    "name" : "LuxeSateen",
+                    "children": [
+                        {"name": "DuvetCover"},
+                        {"name": "Pillowcases"},
+                        {"name": "Fitted Sheets"},
+                        {"name": "Started Set"},
+                        {"name": "Core Set"},
+                        {"name": "Hardcorde Bundle"},
+                        {"name": "Move in Bundle"}
+                    ]
+                },
+                 {
+                    "name" : "WashedLinen",
+                    "children": [
+                        {"name": "DuvetCover"},
+                        {"name": "Pillowcases"},
+                        {"name": "Core Set"},
+                        {"name": "Hardcorde Bundle"},
+                        {"name": "Move in Bundle"}
+                    ]
+                }
+            ]
+
+        },
+        {
+            "name" : "towels",
+            "children" : [
+                {
+                    "name" : "UltraLight",
+                    "children" : [
+                        {"name" : "BathSheets"},
+                        {"name" : "BathTowels"},
+                        {"name" : "HandTowels"},
+                        {"name" : "Washcloth"},
+                        {"name" : "BathTowelBundle"},
+                        {"name" : "BathSheetBundle"},
+                        {"name" : "TowelMoveInBundle"}
+                    ]
+                },
+                { 
+                    "name" : "MidPlush",
+                    "children" : [
+                        {"name" : "BathSheets"},
+                        {"name" : "BathTowels"},
+                        {"name" : "HandTowels"},
+                        {"name" : "Washcloth"},
+                        {"name" : "BathTowelBundle"},
+                        {"name" : "BathSheetBundle"},
+                        {"name" : "TowelMoveInBundle"}
+                    ]
+
+                },
+                { 
+                    "name" : "SuperPlush",
+                    "children" : [
+                        {"name" : "BathSheets"},
+                        {"name" : "BathTowels"},
+                        {"name" : "HandTowels"},
+                        {"name" : "Washcloth"},
+                        {"name" : "BathTowelBundle"},
+                        {"name" : "BathSheetBundle"},
+                        {"name" : "TowelMoveInBundle"},
+                        {"name" : "SuperPlushRobe"}
+                    ]
+
+                }
+            ]
+        },
+         {
+            "name" : "pillows",
+            "children" : [
+                {
+                    "name" : "DownAlternative",
+                    "children" : [
+                        {"name" : "Plush"},
+                        {"name" : "MidPlush"},
+                        {"name" : "Firm"}
+                    ]
+                },
+                { 
+                    "name" : "Down",
+                    "children" : [
+                        {"name" : "Plush"},
+                        {"name" : "MidPlush"},
+                        {"name" : "Firm"}
+                    ]
+
+                }
+            ]
+        },
+        {
+            "name" : "comforters",
+            "children" : [
+                {
+                    "name" : "DownAlternative",
+                    "children" : [
+                        {"name" : "AllSeason"},
+                        {"name" : "Lightweight"}
+                    ]
+                },
+                { 
+                    "name" : "Down",
+                    "children" : [
+                        {"name" : "AllSeason"},
+                        {"name" : "Lightweight"}
+                    ]
+
+                }
+            ]
+        },
+         {
+            "name" : "Loungewear",
+            "children" : [
+                {
+                    "name" : "Woman",
+                    "children" : [
+                        {"name" : "BoerumJogger"},
+                        {"name" : "BleekerShort"},
+                        {"name" : "DelanceyTee"},
+                        {"name" : "MorganTank"},
+                        {"name" : "MorningsideDress"}
+                    ]
+                },
+                { 
+                    "name" : "Men",
+                    "children" : [
+                        {"name" : "BergenJogger"},
+                        {"name" : "BoweryShort"},
+                        {"name" : "ClarkTank"},
+                        {"name" : "ProspectTee"}
+                    ]
+
+                }
+            ]
+        }
+    ]
+
+
+
+}
